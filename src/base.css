@@ -60,7 +60,7 @@ button {
 	--header-primary: rgba(var(--white), 1);
 	--header-secondary: rgba(var(--white), 0.6);
 	--text-normal: rgba(var(--white), 0.6);
-	--text-muted: #8a8e94;
+	--text-muted: #d1dae8;
 	--interactive-muted: rgba(var(--white), 0.15);
 	--interactive-normal: rgba(var(--white), 0.5);
 	--interactive-hover: rgba(var(--white), 0.75);
