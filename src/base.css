@@ -61,7 +61,7 @@ div[class*="userProfile"][class*="unThemed"].theme-light {
 	--header-primary: rgba(var(--dm-white), 1);
 	--header-secondary: rgba(var(--dm-white), 0.6);
 	--text-normal: rgba(var(--dm-white), 0.6);
-	--text-muted: #8a8e94;
+	--text-muted: #d1dae8;
 	--interactive-muted: rgba(var(--dm-white), 0.15);
 	--interactive-normal: rgba(var(--dm-white), 0.5);
 	--interactive-hover: rgba(var(--dm-white), 0.75);
